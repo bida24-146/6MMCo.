@@ -1,4 +1,4 @@
-<body class="page-1">
+{body class="page-1"}
 <style>
         /* General body styling */
         body {
@@ -208,7 +208,7 @@
             position: relative;
             bottom: 0;
             width: 100%;
-        <body class="page-3">
+        {body class="page-3"}
           <style>
         /* General body styling */
         body {
@@ -419,7 +419,7 @@
             width: 100%;
         }
          {body class="page-5"}
-       
+       /* General body styling */
       body {
             font-family: Arial, sans-serif;
             background-color: #f4e1c1; /* Light beige background */
