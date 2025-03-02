@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    color: #fff; /* White text for contrast */
+    color: #4e3629; /* Dark brown text */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -14,23 +14,23 @@ header, footer {
 
 /* Page-specific styling */
 .page-1 {
-    background-color: #8B4513; /* SaddleBrown */
+    background-color:  #f4e1c1; /* Light beige background */
 }
 
 .page-2 {
-    background-color: #A52A2A; /* Brown */
+    background-color:  #f4e1c1; /* Light beige background */
 }
 
 .page-3 {
-    background-color: #D2691E; /* Chocolate */
+    background-color:  #f4e1c1; /* Light beige background */
 }
 
 .page-4 {
-    background-color: #CD853F; /* Peru */
+    background-color: #f4e1c1; /* Light beige background */
 }
 
 .page-5 {
-    background-color: #F4A300; /* Light Brownish Orange */
+    background-color:  #f4e1c1; /* Light beige background */
 }
 
 /* Styling for content sections */
@@ -38,7 +38,7 @@ section {
     padding: 20px;
     max-width: 1200px;
     margin: 20px auto;
-    background-color: rgba(255, 255, 255, 0.85); /* Semi-transparent white for content */
+    background-color: #6f4f28; /* Medium brown background */
     border-radius: 10px;
 }
 
